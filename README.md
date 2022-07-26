@@ -9,6 +9,4 @@ Instagram- https://www.instagram.com/sattikbhaumik/ ,
 
 Twitter- https://twitter.com/BhaumikSattik
 
-Blog- https://sattik14bhaumik.blogspot.com/ 
-
 My YouTube channel (subscribe if you aren't)- https://www.youtube.com/channel/UCcwIm7TfFq_HOkLn76XL6rw
