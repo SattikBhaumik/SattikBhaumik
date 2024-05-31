@@ -10,7 +10,7 @@ I'm a **Physics and Astronomy Student** at Minerva University. I'm passionate ab
 ## Projects
 
 ### Exoplanet Habitability Analysis
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-name)](https://github.com/yourusername/your-repo-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SattikBhaumik&repo=Analyzing_Exoplanets)](https://github.com/SattikBhaumik/Analyzing_Exoplanets)
 
 #Brief description of the project...
 
@@ -25,9 +25,6 @@ I'm a **Physics and Astronomy Student** at Minerva University. I'm passionate ab
 
 ### Current Moon Phase
 ![Moon Phase](https://www.moonphases.co.uk/api/current-phase)
-
-### Live Celestial Events
-![Live Events](https://space-event-tracker.herokuapp.com/api/live-events)
 
 ## How to Reach Me
 
