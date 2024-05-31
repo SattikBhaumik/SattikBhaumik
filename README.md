@@ -9,7 +9,7 @@ I'm a **Physics and Astronomy Student** at Minerva University. I'm passionate ab
 - Fellow of the Royal Astronomical Society
 - Published paper on exoplanet habitability
 
-## 🔭 Projects
+## Projects
 
 ### Exoplanet Habitability Analysis
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-name)](https://github.com/yourusername/your-repo-name)
