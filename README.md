@@ -33,8 +33,9 @@ Brief description of the project...
 
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlinkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourtwitter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sattik-bhaumik-fras-b03a0516b/)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/BhaumikSattik)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/sattik_bhaumik/?hl=en)
 
 ## ⚡ Fun Facts
 
@@ -44,12 +45,6 @@ Brief description of the project...
 Hello, I am Sattik Bhaumik, Student Astronomer.
 You can reach me on-
 
-Email address- sattik14bhaumik@gmail.com , 
-
-LinkedIn- https://www.linkedin.com/in/sattik-bhaumik-fras-b03a0516b/ 
-
-Instagram- https://www.instagram.com/sattikbhaumik/ ,
-
-Twitter- https://twitter.com/BhaumikSattik
+Email address- sattik14bhaumik@gmail.com
 
 My YouTube channel (subscribe if you aren't)- https://www.youtube.com/channel/UCcwIm7TfFq_HOkLn76XL6rw
