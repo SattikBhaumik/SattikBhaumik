@@ -1,6 +1,6 @@
 # Hi there, I'm Sattik Bhaumik! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=SattikBhaumik&color=red)
 
 ## About Me
 
