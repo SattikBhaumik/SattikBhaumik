@@ -29,7 +29,7 @@ I'm a **Physics and Astronomy Student** at Minerva University. I'm passionate ab
 ## How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sattik-bhaumik-fras-b03a0516b/)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/BhaumikSattik)
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/BhaumikSattik)
 [![Instagram](https://img.shields.io/badge/Instagram-yellow?style=for-the-badge&logo=instagram)](https://www.instagram.com/sattik_bhaumik/?hl=en)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCcwIm7TfFq_HOkLn76XL6rw)
 
