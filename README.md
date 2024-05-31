@@ -3,7 +3,7 @@ You can reach me on-
 
 Email address- sattik14bhaumik@gmail.com , 
 
-LinkedIn- https://www.linkedin.com/in/sattik-bhaumik-b03a0516b/ 
+LinkedIn- https://www.linkedin.com/in/sattik-bhaumik-fras-b03a0516b/ 
 
 Instagram- https://www.instagram.com/sattikbhaumik/ ,
 
