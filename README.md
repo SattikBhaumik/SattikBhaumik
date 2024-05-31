@@ -14,17 +14,15 @@ I'm a **Physics and Astronomy Student** at Minerva University. I'm passionate ab
 
 #Brief description of the project...
 
-### Celestial Events Tracker
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-name)](https://github.com/yourusername/your-repo-name)
-
-#Brief description of the project...
-
 ## Dynamic Content
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SattikBhaumik)
 
 ### Current Moon Phase
 ![Moon Phase](https://www.moonphases.co.uk/api/current-phase)
+
+### Live Celestial Events
+![Live Events](https://space-event-tracker.herokuapp.com/api/live-events)
 
 ## How to Reach Me
 
