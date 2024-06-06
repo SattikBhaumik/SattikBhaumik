@@ -12,12 +12,6 @@ I'm a **Physics and Astronomy Student** at Minerva University. I'm passionate ab
 ### Exoplanet Habitability Analysis
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SattikBhaumik&repo=Analyzing_Exoplanets)](https://github.com/SattikBhaumik/Analyzing_Exoplanets)
 
-### Current Moon Phase
-![Moon Phase](https://www.moonphases.co.uk/api/current-phase)
-
-### Live Celestial Events
-![Live Events](https://space-event-tracker.herokuapp.com/api/live-events)
-
 ## How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sattik-bhaumik-fras-b03a0516b/)
