@@ -12,10 +12,6 @@ I'm a **Physics and Astronomy Student** at Minerva University. I'm passionate ab
 ### Exoplanet Habitability Analysis
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SattikBhaumik&repo=Analyzing_Exoplanets)](https://github.com/SattikBhaumik/Analyzing_Exoplanets)
 
-## Dynamic Content
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SattikBhaumik)
-
 ### Current Moon Phase
 ![Moon Phase](https://www.moonphases.co.uk/api/current-phase)
 
