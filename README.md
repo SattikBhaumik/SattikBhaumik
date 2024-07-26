@@ -1,4 +1,4 @@
-# Hello, I'm Sattik Bhaumik!
+# Hello, I'm Sattik Bhaumik FRAS!
 
 ## About Me
 
