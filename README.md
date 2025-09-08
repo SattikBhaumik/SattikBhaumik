@@ -5,7 +5,8 @@
 I'm a **Physics and Astronomy Student** at Minerva University. I'm passionate about exploring the universe and using data to uncover its mysteries. Currently, I'm focused on exoplanet research and developing computational models to study their habitability. I am also interested in a varied sub-fields within Astronomy such as Black Holes, Galaxies, etc.: essentially everything!
 
 - Fellow of the Royal Astronomical Society
-- Published paper on exoplanet habitability
+- Student Affiliate of the Royal Aeronautical Society
+- Published 2 papers on exoplanet habitability
 
 ## Projects
 
