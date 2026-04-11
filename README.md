@@ -16,7 +16,7 @@
 I'm a **Physics and Astronomy student** at Minerva University, focused on exoplanet science, transient astrophysics, and multi-messenger cosmology. I build computational models and ML pipelines to study planetary habitability, and I'm broadly interested in black holes, galaxies, and fundamental physics.
 
 ![FRAS](https://img.shields.io/badge/FRAS-Royal%20Astronomical%20Society-0066CC?style=flat-square)
-![RAS Board](https://img.shields.io/badge/Board%20Member-RAS-0066CC?style=flat-square)
+![RAS](https://img.shields.io/badge/Board%20Member-RAS-0066CC?style=flat-square)
 ![AAS](https://img.shields.io/badge/Electoral%20Board-AAS-6A44CC?style=flat-square)
 ![APS](https://img.shields.io/badge/Electoral%20Board-APS-6A44CC?style=flat-square)
 ![EAS](https://img.shields.io/badge/Junior%20Member-EAS-1A9070?style=flat-square)
