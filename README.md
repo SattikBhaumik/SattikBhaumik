@@ -1,6 +1,6 @@
-<!-- Header Banner -->
 <div align="center">
-. * . . * . * . . * . * . * . . * . * . . *
+  <img src="[YOUR_BANNER_IMAGE_URL](https://www.nasa.gov/wp-content/uploads/2026/04/art002e015228orig.jpg)" width="100%"/>
+</div>
 
 
 # Sattik Bhaumik FRAS
