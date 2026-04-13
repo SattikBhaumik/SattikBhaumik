@@ -1,10 +1,3 @@
-## 🌙 Current Moon Phase
-
-<div align="center">
-  <img src="moon.svg" alt="Current moon phase" />
-</div>
-
-
 # Sattik Bhaumik FRAS
 **Physics & Astronomy · Minerva University · San Francisco**
 `RA 00h 00m 00s · Dec +00° 00′ 00″ · Year 3 · Spring 2026`
@@ -26,6 +19,11 @@ I'm a **Physics and Astronomy student** at Minerva University, focused on exopla
 ![RAeS](https://img.shields.io/badge/Affiliate%20Member-RAeS-CC5533?style=flat-square)
 
 ---
+## 🌙 Current Moon Phase
+
+<div align="center">
+  <img src="moon.svg" alt="Current moon phase" />
+</div>
 
 ## 🧪 Current Research
 
