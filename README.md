@@ -1,5 +1,7 @@
+## 🌙 Current Moon Phase
+
 <div align="center">
-  <img src="[YOUR_BANNER_IMAGE_URL](https://www.nasa.gov/wp-content/uploads/2026/04/art002e015228orig.jpg)" width="100%"/>
+  <img src="moon.svg" alt="Current moon phase" />
 </div>
 
 
