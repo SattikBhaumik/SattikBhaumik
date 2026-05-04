@@ -11,7 +11,7 @@
 I'm a **Physics and Computer Science student** at Minerva University.
 
 ![FRAS](https://img.shields.io/badge/FRAS-Royal%20Astronomical%20Society-0066CC?style=flat-square)
-![AAS](https://img.shields.io/badge/Member%20AAS-6A44CC?style=flat-square)
+![AAS](https://img.shields.io/badge/Member-AAS-6A44CC?style=flat-square)
 ![APS](https://img.shields.io/badge/Electoral%20Board-APS-6A44CC?style=flat-square)
 ![EAS](https://img.shields.io/badge/Junior%20Member-EAS-1A9070?style=flat-square)
 ![ESA NASC](https://img.shields.io/badge/Active%20Research%20Member-ESA%20NASC-1A9070?style=flat-square)
