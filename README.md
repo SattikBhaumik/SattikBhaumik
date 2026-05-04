@@ -1,6 +1,5 @@
 # Sattik Bhaumik FRAS
 **Physics & Computer Science · Minerva University · San Francisco**
-`RA 00h 00m 00s · Dec +00° 00′ 00″ · Year 3 · Spring 2026`
 
 </div>
 
