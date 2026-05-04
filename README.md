@@ -1,5 +1,5 @@
 # Sattik Bhaumik FRAS
-**Physics & Astronomy · Minerva University · San Francisco**
+**Physics & Computer Science · Minerva University · San Francisco**
 `RA 00h 00m 00s · Dec +00° 00′ 00″ · Year 3 · Spring 2026`
 
 </div>
@@ -8,7 +8,7 @@
 
 ## 🔭 About Me
 
-I'm a **Physics and Astronomy student** at Minerva University, focused on exoplanet science, transient astrophysics, and multi-messenger cosmology. I build computational models and ML pipelines to study planetary habitability, and I'm broadly interested in black holes, galaxies, and fundamental physics.
+I'm a **Physics and Computer Science student** at Minerva University.
 
 ![FRAS](https://img.shields.io/badge/FRAS-Royal%20Astronomical%20Society-0066CC?style=flat-square)
 ![RAS](https://img.shields.io/badge/Board%20Member-RAS-0066CC?style=flat-square)
