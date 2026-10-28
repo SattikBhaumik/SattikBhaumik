@@ -17,11 +17,6 @@ I'm a **Physics and Computer Science student** at Minerva University.
 ![RAeS](https://img.shields.io/badge/Affiliate%20Member-RAeS-CC5533?style=flat-square)
 
 ---
-## 🌙 Current Moon Phase
-
-<div align="center">
-  <img src="moon.svg" alt="Current moon phase" />
-</div>
 
 ## 🧪 Current Research
 
