@@ -18,25 +18,6 @@ I'm a **Physics and Computer Science student** at Minerva University.
 
 ---
 
-## 🧪 Current Research
-
-- Exoplanet classification (rocky / water-rich / gas-rich sub-Neptunes) using ML: Random Forest, SVM, kNN, MLP
-- Fulton Gap population analysis — testing photoevaporation, core-powered mass loss, and the water-world hypothesis
-- Ultralight-boson detection & SMBH spin tests with NewAthena / X-IFU (ESA NASC)
-
----
-
-## 📋 Projects
-
-[![Analyzing_Exoplanets](https://github-readme-stats.vercel.app/api/pin/?username=SattikBhaumik&repo=Analyzing_Exoplanets&theme=tokyonight)](https://github.com/SattikBhaumik/Analyzing_Exoplanets)
-
----
-
-## 📄 Publications
-
-- *Exoplanet habitability* — Journal of Emerging Investigators (MIT/Harvard), 2022
-- *Exoplanet habitability* — Columbia Undergraduate Science Journal, Spring 2024
-
 ---
 
 ## 📊 GitHub Stats
