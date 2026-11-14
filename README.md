@@ -11,9 +11,7 @@
 
 ## 🔭 About Me
 
-I'm a **Physics and Computer Science student** at **Minerva University**, with research interests in astronomy, astrophysics, and computational science.
-
-My academic interests include exoplanetary science, cosmology, machine learning, and statistical data analysis.
+I'm a **Physics and Computer Science student** at **Minerva University**, with research interests in astronomy, astrophysics, mathematics and computational science.
 
 ### Memberships & Affiliations
 
